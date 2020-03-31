@@ -1,2 +1,0 @@
-# deck
-Created with CodeSandbox
